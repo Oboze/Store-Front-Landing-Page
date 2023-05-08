@@ -1,0 +1,1 @@
+A simple store front built using HTML CSS and JavaScript
