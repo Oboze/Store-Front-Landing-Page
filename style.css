@@ -23,12 +23,11 @@
   #search-container {
     margin: 0;
     background-color: #dddddd;
-    position:relative;
+    
   }
   .search-box{
     display:inline;
-    position:relative;
-    left: 20em;
+    
   }
   #search-container input {
     background-color: var(--main-white);
@@ -171,9 +170,8 @@
     }
     .search-box{
         display:block;
-        position:relative;
-        left:0;
         margin-bottom:10px;
+        margin-left: 15px;
     }
   }
 
